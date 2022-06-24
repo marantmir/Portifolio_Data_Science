@@ -1,6 +1,6 @@
 # Marcos Natan Trindade
 
-### About me:
+### About me
 Economist and data scientist.
 
 ### Meus projetos:
