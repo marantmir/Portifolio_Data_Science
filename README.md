@@ -10,4 +10,4 @@ Economista e cientista de dados.
 - [Analisando a violência no rio de janeiro](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) - Analise exploratoria dos dados do portal IspDados
 
 - [Detector de fraudes em documentos](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) - Projeto com o objetivo de detectar fraudes em documentos usando a biblioteca OpenCV.
-- [Regresssão Linear - Ações Petrobras](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) - Regressão linear simples aplicada as ações da petrobras
+- [Regresssão Linear - Ações Petrobras](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Regress%C3%A3o_Linear~(Petrobras).ipynb) - Regressão linear simples aplicada as ações da petrobras
