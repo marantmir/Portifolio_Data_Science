@@ -19,3 +19,18 @@ Economista e cientista de dados.
 
 - [Classificação de review usando NLP](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Classificando_reviews_atraves_de_text_nlp.ipynb) -  Usando nlp para classificar review de ecommerce.
 
+
+
+- [Regressão Linear aplicada a ecommerce](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Regressao_linear_Ecommerce.ipynb) - Regressão linear aplicada a loja digital com o objetivo de auxiliar no processo de tomada de decisão.
+
+
+
+- [Classificação usando Kmeans aplicada ao spotify ](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Projeto_spotify_clustering.ipynb) - Usando KMeans para agrupar musicas com caracteristicas semelhantes no spotify.
+
+
+- [Utilizando nlp para classificar SMS ](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/nlp_classificando_text_spam_ham.ipynb) - Utilizando nlp para classificar sms entre Spam ou não Spam.
+
+
+
+
+
