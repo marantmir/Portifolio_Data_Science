@@ -34,6 +34,7 @@ Economista e cientista de dados.
 - [Clusterização aplicada a segmentação de universidades ](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Clusterizacao_usando__o__Kmeans__Segmentacao_Universidades.ipynb) - Utilizando Clusterizaçao com Kmeans para segmentar universidades.
 
 
+- [Detecção de fraude em documentos usando Open cv](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/detector_fraudes_documentos.ipynb) - Usando Open cv e visão computacional para detectar fraudes em documentos.
 
 
 
