@@ -16,3 +16,6 @@ Economista e cientista de dados.
 
 - [Previsão de ataque cardiacos utilizando machine learning](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Previs%C3%A3o_de_ataque_cardiaco.ipynb) - Previsão de ataque cardiacos utilizando machine learning, aplicando varios modelos diferentes de ml.
 
+
+- [Classificação de review usando NLP](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Classificando_reviews_atraves_de_text_nlp.ipynb) -  Usando nlp para classificar review de ecommerce.
+
