@@ -31,6 +31,9 @@ Economista e cientista de dados.
 - [Utilizando nlp para classificar SMS ](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/nlp_classificando_text_spam_ham.ipynb) - Utilizando nlp para classificar sms entre Spam ou não Spam.
 
 
+- [Clusterização aplicada a segmentação de universidades ](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Clusterizacao_usando__o__Kmeans__Segmentacao_Universidades.ipynb) - Utilizando Clusterizaçao com Kmeans para segmentar universidades.
+
+
 
 
 
