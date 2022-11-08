@@ -15,3 +15,13 @@ Economista e cientista de dados.
 
 
 - [Previsão de ataque cardiacos utilizando machine learning](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Previs%C3%A3o_de_ataque_cardiaco.ipynb) - Previsão de ataque cardiacos utilizando machine learning, aplicando varios modelos diferentes de ml.
+
+-[Classificando sms com NLP - Spam/Ham](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/nlp_classificando_text_spam_ham.ipynb)- Classificando texto com NLP para identificar se a mensagem é spam ou não.
+
+-[Regressão Linear aplicada a Ecommerce](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Regressao_linear_Ecommerce.ipynb) -  Usando regressão linear para auxiliar uma loja de ecommerce na tomada de decisão.
+
+-[Classificação Usando Kmeans para segmentação de universidades] (https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Clusterizacao_usando__o__Kmeans__Segmentacao_Universidades.ipynb)-Usando classificação com kmeans para segmentar universidades publicas e Privadas.
+
+-[Classificação de reviews através de NLP](https://github.com/marcoosnt1/Portifolio_Data_Science/blob/main/Classificando_reviews_atraves_de_text_nlp.ipynb) -  Usando nlp para classificar reviews de um ecommerce. 
+
+
